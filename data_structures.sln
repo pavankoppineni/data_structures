@@ -7,11 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C03C2BF5-D4D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{BB9B1D8A-2F15-4464-9D68-5305978D559C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Shell", "src\DataStructures.Shell\DataStructures.Shell.csproj", "{E887265C-AA6C-4678-882E-EE864A0C01CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.Shell", "src\DataStructures.Shell\DataStructures.Shell.csproj", "{E887265C-AA6C-4678-882E-EE864A0C01CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Tree", "src\DataStructures.Tree\DataStructures.Tree.csproj", "{A2BFD855-F459-47BE-9844-5DDB19063F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.Tree", "src\DataStructures.Tree\DataStructures.Tree.csproj", "{A2BFD855-F459-47BE-9844-5DDB19063F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Queue", "src\DataStructures.Queue\DataStructures.Queue.csproj", "{4089261E-78AE-43A1-84B0-D5F2653B5AC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.Queue", "src\DataStructures.Queue\DataStructures.Queue.csproj", "{4089261E-78AE-43A1-84B0-D5F2653B5AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Queue.Tests", "test\DataStructures.Queue.Tests\DataStructures.Queue.Tests.csproj", "{688F9497-44FD-4E78-ABC0-0975D5DE263C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Stack", "src\DataStructures.Stack\DataStructures.Stack.csproj", "{034CA92B-5634-4650-9170-E7DBD0A99091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Stack.Tests", "test\DataStructures.Stack.Tests\DataStructures.Stack.Tests.csproj", "{8370FBC5-C24A-459E-B5B8-B8B30788E534}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,18 @@ Global
 		{4089261E-78AE-43A1-84B0-D5F2653B5AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4089261E-78AE-43A1-84B0-D5F2653B5AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4089261E-78AE-43A1-84B0-D5F2653B5AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688F9497-44FD-4E78-ABC0-0975D5DE263C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688F9497-44FD-4E78-ABC0-0975D5DE263C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688F9497-44FD-4E78-ABC0-0975D5DE263C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688F9497-44FD-4E78-ABC0-0975D5DE263C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034CA92B-5634-4650-9170-E7DBD0A99091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034CA92B-5634-4650-9170-E7DBD0A99091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034CA92B-5634-4650-9170-E7DBD0A99091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034CA92B-5634-4650-9170-E7DBD0A99091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8370FBC5-C24A-459E-B5B8-B8B30788E534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8370FBC5-C24A-459E-B5B8-B8B30788E534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8370FBC5-C24A-459E-B5B8-B8B30788E534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8370FBC5-C24A-459E-B5B8-B8B30788E534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +57,9 @@ Global
 		{E887265C-AA6C-4678-882E-EE864A0C01CC} = {C03C2BF5-D4D9-4623-893F-D5E642908C4F}
 		{A2BFD855-F459-47BE-9844-5DDB19063F2C} = {C03C2BF5-D4D9-4623-893F-D5E642908C4F}
 		{4089261E-78AE-43A1-84B0-D5F2653B5AC0} = {C03C2BF5-D4D9-4623-893F-D5E642908C4F}
+		{688F9497-44FD-4E78-ABC0-0975D5DE263C} = {BB9B1D8A-2F15-4464-9D68-5305978D559C}
+		{034CA92B-5634-4650-9170-E7DBD0A99091} = {C03C2BF5-D4D9-4623-893F-D5E642908C4F}
+		{8370FBC5-C24A-459E-B5B8-B8B30788E534} = {BB9B1D8A-2F15-4464-9D68-5305978D559C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFE9F262-D9C5-4E7D-8865-FFA5722E0064}
