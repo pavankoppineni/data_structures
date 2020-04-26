@@ -60,7 +60,7 @@ namespace DataStructures.Queue
 
         public int DeQueue()
         {
-            if (IsEmpty())
+            if (IsEmpty()-)
             {
                 throw new IndexOutOfRangeException();
             }
