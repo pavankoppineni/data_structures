@@ -66,7 +66,7 @@ namespace DataStructures.Queue
             }
             var value = values[front];
             front++;
-            if (front >= rear)
+            if (front > rear)
             {
                 front = -1;
                 rear = -1;
