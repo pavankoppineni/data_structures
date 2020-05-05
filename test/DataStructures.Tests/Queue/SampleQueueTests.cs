@@ -1,9 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using DataStructures.Queue;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataStructures.Queue.Tests
+namespace DataStructures.Tests.Queue
 {
     [TestClass]
     public class SampleQueueTests
@@ -76,7 +77,7 @@ namespace DataStructures.Queue.Tests
             sampleQueue.DeQueue();
             sampleQueue.DeQueue();
             sampleQueue.DeQueue();
-            
+
             Action action = () => sampleQueue.DeQueue();
 
             //Assert
