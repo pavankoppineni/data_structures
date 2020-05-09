@@ -1,9 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using DataStructures.Stack;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataStructures.Stack.Tests
+namespace DataStructures.Tests.Stack
 {
     [TestClass]
     public class SampleStackTests

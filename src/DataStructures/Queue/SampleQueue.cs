@@ -1,4 +1,7 @@
 using System;
+using System.Collections.Generic;
+using System.Text;
+using System;
 
 namespace DataStructures.Queue
 {
@@ -37,7 +40,7 @@ namespace DataStructures.Queue
 
         public bool IsEmpty()
         {
-            if(front < 0)
+            if (front < 0)
             {
                 return true;
             }
