@@ -19,6 +19,8 @@
 * AVL Tree
 * Red Black Tree
 * Binary Heap
+* Binary Indexed Tree or Fenwick Tree
+* Segment Tree
 
 ### Advanced Data Structures
 
