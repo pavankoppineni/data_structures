@@ -4,7 +4,8 @@
 
 * Array
 * Stack
-* Queue
+* [Queue](./src/DataStructures/Queue)
+* [Circular Queue](./src/DataStructures/CircularQueue)
 * Circular Queue
 * Priority Queue
 * Linked Lists
