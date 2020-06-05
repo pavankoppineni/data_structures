@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="SuffixArray\" />
+    <Folder Include="Tree\" />
   </ItemGroup>
 
 </Project>
