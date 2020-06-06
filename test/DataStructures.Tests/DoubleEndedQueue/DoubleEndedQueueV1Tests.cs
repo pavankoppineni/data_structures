@@ -13,16 +13,9 @@ namespace DataStructures.Tests.DoubleEndedQueue
         public void Given_QueueWithLengthFive_When_InsertFrontFiveTimes_Then_ValuesShouldBeAddedToQueue()
         {
             //Given
-            var length = 5;
-            var deadLetterQueue = new DoubleEndedQueueV1(length);
-            var values = new List<int> { 1, 2, 3, 4, 5 };
-
             //When
             //Then
-            foreach(var value in values)
-            {
-                deadLetterQueue.InsertFront(value);
-            }
+            Assert.Inconclusive("Double ended queue is yet to be done");
         }
     }
 }
