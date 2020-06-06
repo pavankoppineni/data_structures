@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="PriorityQueue\" />
     <Folder Include="SuffixArray\" />
     <Folder Include="Tree\" />
   </ItemGroup>
