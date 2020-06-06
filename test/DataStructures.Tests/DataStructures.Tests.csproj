@@ -17,4 +17,8 @@
     <ProjectReference Include="..\..\src\DataStructures\DataStructures.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="PriorityQueue\" />
+  </ItemGroup>
+
 </Project>
