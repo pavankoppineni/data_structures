@@ -21,7 +21,7 @@
 * Red Black Tree
 * Binary Heap
 * Binary Indexed Tree or Fenwick Tree
-* Segment Tree
+* [Segment Tree](./src/DataStructures/Tree/SegmentTree)
 
 ### Advanced Data Structures
 
