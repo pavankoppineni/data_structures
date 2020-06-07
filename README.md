@@ -18,7 +18,7 @@
 * B+ Tree
 * AVL Tree
 * Red Black Tree
-* [Binary Heap](./src/Heap)
+* [Binary Heap](./src/DataStructures/Heap)
 * Binary Indexed Tree or Fenwick Tree
 * [Segment Tree](./src/DataStructures/Tree/SegmentTree)
 
