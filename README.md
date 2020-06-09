@@ -13,7 +13,7 @@
 ### Tree Data Structures
 
 * Binary Tree
-* Binary Search Tree
+* [Binary Search Tree](./src/DataStructures/Tree/BinarySearchTree)
 * B Tree
 * B+ Tree
 * AVL Tree

@@ -7,7 +7,7 @@
   <ItemGroup>
     <Folder Include="PriorityQueue\" />
     <Folder Include="SuffixArray\" />
-    <Folder Include="Tree\" />
+    <Folder Include="Tree\AVLTree\" />
   </ItemGroup>
 
 </Project>
