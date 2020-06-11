@@ -7,6 +7,7 @@
 * [Queue](./src/DataStructures/Queue)
 * [Circular Queue](./src/DataStructures/CircularQueue)
 * Priority Queue
+* [Double Ended Queue](./src/DataStructures/DoubleEndedQueue)
 * Linked Lists
 * Hash Table
 
