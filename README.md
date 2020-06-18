@@ -10,6 +10,7 @@
 * [Double Ended Queue](./src/DataStructures/DoubleEndedQueue)
 * Linked Lists
 * Hash Table
+* Skip Lists
 
 ### Tree Data Structures
 
@@ -20,6 +21,9 @@
 * AVL Tree
 * Red Black Tree
 * [Binary Heap](./src/DataStructures/Heap)
+* Binomial Heap
+* Fibonacci Heap
+* Ternary Search Tree
 * Binary Indexed Tree or Fenwick Tree
 * [Segment Tree](./src/DataStructures/Tree/SegmentTree)
 
