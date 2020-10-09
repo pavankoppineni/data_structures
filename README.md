@@ -1,3 +1,7 @@
+# Resources
+
+* https://www.wild-inter.net/teaching/comp526/
+
 # Data Structures
 
 ![.NET Core](https://github.com/pavankoppineni/data_structures/workflows/.NET%20Core/badge.svg)
