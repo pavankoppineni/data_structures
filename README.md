@@ -1,6 +1,7 @@
 # Resources
 
 * https://www.wild-inter.net/teaching/comp526/
+* https://medium.com/@adityakumar_98609/fenwick-tree-binary-index-tree-aca7824d9c2a
 
 # Data Structures
 
