@@ -27,6 +27,7 @@
 * Red Black Tree
 * [Binary Heap](./src/DataStructures/Heap)
 * Binary Indexed Tree or Fenwick Tree
+* Log Structured Merge Trees
 
 
 ### Advanced Data Structures
