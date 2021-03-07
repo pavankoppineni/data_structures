@@ -5,8 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="PriorityQueue\" />
-    <Folder Include="SuffixArray\" />
+    <Compile Remove="PriorityQueue\**" />
+    <Compile Remove="SuffixArray\**" />
+    <EmbeddedResource Remove="PriorityQueue\**" />
+    <EmbeddedResource Remove="SuffixArray\**" />
+    <None Remove="PriorityQueue\**" />
+    <None Remove="SuffixArray\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Tree\AVLTree\" />
   </ItemGroup>
 
