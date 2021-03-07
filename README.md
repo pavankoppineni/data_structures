@@ -2,6 +2,7 @@
 
 * https://www.wild-inter.net/teaching/comp526/
 * https://medium.com/@adityakumar_98609/fenwick-tree-binary-index-tree-aca7824d9c2a
+* https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/
 
 # Data Structures
 
@@ -27,6 +28,7 @@
 * Red Black Tree
 * [Binary Heap](./src/DataStructures/Heap)
 * Binary Indexed Tree or Fenwick Tree
+* Log Structured Merge Trees
 
 
 ### Advanced Data Structures
