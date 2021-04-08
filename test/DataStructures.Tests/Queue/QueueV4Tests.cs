@@ -15,18 +15,18 @@ namespace DataStructures.Tests.Queue
             //Given
             var values = new int[] { 1, 2, 3, 4, 5 };
             var queue = new QueueV4(values.Length);
-            var expectedLength = 3;
 
             //When
             for (var index = 0; index < values.Length; index++)
             {
                 queue.EnQueue(values[index]);
             }
-            queue.DeQueue();
-            queue.DeQueue();
 
             //Then
-            Assert.AreEqual(expectedLength, queue.Length);
+            for (var index = 0; index < values.Length; index++)
+            {
+                Assert.AreEqual(values[index], queue.DeQueue());
+            }
         }
     }
 }
