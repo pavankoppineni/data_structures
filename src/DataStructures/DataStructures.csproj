@@ -6,15 +6,11 @@
 
   <ItemGroup>
     <Compile Remove="PriorityQueue\**" />
-    <Compile Remove="SuffixArray\**" />
+    <Compile Remove="Tree\AVLTree\**" />
     <EmbeddedResource Remove="PriorityQueue\**" />
-    <EmbeddedResource Remove="SuffixArray\**" />
+    <EmbeddedResource Remove="Tree\AVLTree\**" />
     <None Remove="PriorityQueue\**" />
-    <None Remove="SuffixArray\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Tree\AVLTree\" />
+    <None Remove="Tree\AVLTree\**" />
   </ItemGroup>
 
 </Project>
