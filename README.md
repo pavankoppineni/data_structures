@@ -3,6 +3,8 @@
 * https://www.wild-inter.net/teaching/comp526/
 * https://medium.com/@adityakumar_98609/fenwick-tree-binary-index-tree-aca7824d9c2a
 * https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/
+* https://www.youtube.com/watch?v=zZOQVLll9u4
+* https://a2oj.com/Ladder32.html
 
 # Data Structures
 
