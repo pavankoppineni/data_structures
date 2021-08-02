@@ -12,6 +12,7 @@
 
 * Array
 * Stack
+* Monotonic Stack
 * [Queue](./src/DataStructures/Queue)
 * [Circular Queue](./src/DataStructures/CircularQueue)
 * Priority Queue
