@@ -30,7 +30,7 @@
 * AVL Tree
 * Red Black Tree
 * [Binary Heap](./src/DataStructures/Heap)
-* Binary Indexed Tree or Fenwick Tree
+* [Binary Indexed Tree or Fenwick Tree](./src/DataStructures/Tree/BinaryIndexedTree)
 * Log Structured Merge Trees
 
 
