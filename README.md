@@ -19,6 +19,7 @@
 * [Double Ended Queue](./src/DataStructures/DoubleEndedQueue)
 * Linked Lists
 * Hash Table
+* [Disjoint Set](./src/DataStructures/DisjointSet)
 
 
 ### Tree Data Structures
