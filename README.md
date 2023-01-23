@@ -33,6 +33,7 @@
 * [Binary Heap](./src/DataStructures/Heap)
 * [Binary Indexed Tree or Fenwick Tree](./src/DataStructures/Tree/BinaryIndexedTree)
 * Log Structured Merge Trees
+* R-Tree(https://www.geeksforgeeks.org/introduction-to-r-tree/)
 
 
 ### Advanced Data Structures
