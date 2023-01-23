@@ -34,6 +34,7 @@
 * [Binary Indexed Tree or Fenwick Tree](./src/DataStructures/Tree/BinaryIndexedTree)
 * Log Structured Merge Trees
 * R-Tree(https://www.geeksforgeeks.org/introduction-to-r-tree/)
+* Merkle Tree(https://www.geeksforgeeks.org/introduction-to-merkle-tree/)
 
 
 ### Advanced Data Structures
