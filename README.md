@@ -48,6 +48,7 @@
 * Finonacci Heap
 * Ternary Search Tree
 * [Segment Tree](./src/DataStructures/Tree/SegmentTree)
+* Sorted Strings Table(https://www.geeksforgeeks.org/sstable-in-apache-cassandra/)
 
 ### Graph Data Structures
 
