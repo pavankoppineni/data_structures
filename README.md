@@ -59,3 +59,5 @@
 ### Misc
 
 * [Bloom Filter](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
+* https://www.youtube.com/watch?v=XwukyRAL7WQ
+* https://www.youtube.com/watch?v=KbPs-Ka-SeY
