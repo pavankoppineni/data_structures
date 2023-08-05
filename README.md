@@ -35,7 +35,9 @@
 * Log Structured Merge Trees
 * R-Tree(https://www.geeksforgeeks.org/introduction-to-r-tree/)
 * Merkle Tree(https://www.geeksforgeeks.org/introduction-to-merkle-tree/)
-
+* K-D Tree
+* Radix Tree
+* Quad Tree
 
 ### Advanced Data Structures
 
