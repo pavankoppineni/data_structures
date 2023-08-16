@@ -33,7 +33,11 @@
 * [Binary Heap](./src/DataStructures/Heap)
 * [Binary Indexed Tree or Fenwick Tree](./src/DataStructures/Tree/BinaryIndexedTree)
 * Log Structured Merge Trees
-
+* R-Tree(https://www.geeksforgeeks.org/introduction-to-r-tree/)
+* Merkle Tree(https://www.geeksforgeeks.org/introduction-to-merkle-tree/)
+* K-D Tree
+* Radix Tree
+* Quad Tree
 
 ### Advanced Data Structures
 
@@ -46,6 +50,7 @@
 * Finonacci Heap
 * Ternary Search Tree
 * [Segment Tree](./src/DataStructures/Tree/SegmentTree)
+* Sorted Strings Table(https://www.geeksforgeeks.org/sstable-in-apache-cassandra/)
 
 ### Graph Data Structures
 
@@ -54,3 +59,5 @@
 ### Misc
 
 * [Bloom Filter](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
+* https://www.youtube.com/watch?v=XwukyRAL7WQ
+* https://www.youtube.com/watch?v=KbPs-Ka-SeY
