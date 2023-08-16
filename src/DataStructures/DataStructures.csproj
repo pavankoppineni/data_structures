@@ -17,4 +17,8 @@
     <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="LSMTree\LogSegments\" />
+  </ItemGroup>
+
 </Project>
