@@ -5,6 +5,7 @@
 * https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/
 * https://www.youtube.com/watch?v=zZOQVLll9u4
 * https://a2oj.com/Ladder32.html
+* https://erthalion.info/2020/11/28/evolution-of-btree-index-am/
 
 # Data Structures
 
